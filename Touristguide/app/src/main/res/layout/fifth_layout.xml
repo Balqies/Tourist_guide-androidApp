@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="If you need help before, during or after your visit to Horsens, you always have the option of receiving tourist information. Throughout the year, our skilled staff are ready to help, and you are invited to pick up brochures on a wide range of exciting places when you arrive in Horsens.
+
+Call us on telephone number 0045 7560 2120 in our opening hours or send us an email at info@visithorsens.dk – and we will respond as soon as possible.
+
+You can also search for information on more than 170 digital info screens in Eastern Jutland, on our VisitHorsens app or by visiting the Tourist Information at FÆNGSLET, Fussingsvej 8, 8700 Horsens.
+
+Welcome to Horsens!
+
+Contact information
+Opening hours
+Meet us on Facebook and Instagram
+Get the VisitHorsens app
+Tourist information Offices
+Practical information
+Tourist ambassadors
+Contact information
+VisitHorsens
+C/O FÆNGSLET
+Fussingsvej 8
+8700 Horsens
+
+Tel: 0045 75 60 21 20
+info@visithorsens.dk"
+        android:scrollbars="vertical"/>
+</RelativeLayout>

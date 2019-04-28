@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Tourist information
+Are you in need of tourist information about Aarhus? Then have a look at  Visit Aarhus
+
+Information about other cities in Central Denmark Region you can use  Visit Denmark
+
+You can get further information at Midttrafik Customer Center.
+
+Call us:  +45 70 210 230
+Monday - Friday 7.00 - 18.00
+Saturday - Sunday 10.00 - 17.00
+
+Visit us:  Aarhus Bus Station, Fredensgade 45, 8000 Aarhus C
+Monday - Friday 7.00 - 18.00
+Saturday - Sunday 10.00 - 17.00
+
+Find Midttrafik Customer Center on a map
+
+Visit us at Facebook"
+        android:scrollbars="vertical"/>
+</RelativeLayout>

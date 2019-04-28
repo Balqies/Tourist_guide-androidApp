@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:text="Copenhagen welcomes the spring with open-air food markets and parkland fun. In April this year, Copenhagen Zoo also becomes one of only five zoos in Europe with giant Chinese pandas. And don’t forget to explore the city’s many green and leafy neighbourhoods the Danish way – on a bike!
+
+Copenhageners love sun-kissed days. With fair weather, parks and open-air food markets spring to life. Tivoli Gardens open on 4 April 2019 for the summer season with rides, restaurants and family entertainment. And on 12 April, the world’s oldest pleasure park, Bakken, opens for the season – a great chance to go for a ride in a horse-drawn carriage in the UNESCO heritage oak woods and spend the day with family fun. The Japanese Sakura Festival is also celebrated under the blossoming cherry trees by the city’s harbourfront (27-28 April). And Copenhagen’s street food markets (Reffen and the Bridge Street Kitchen) get sizzling in late March.
+
+April also marks the opening of Copenhagen Zoo’s new panda habitat, designed by star architect Bjarke Ingels (BIG). Multiple walkways around the yin-yang inspired enclosure and new creative restaurants will bring a whole new level of experience to the zoo, which becomes one of only five zoological gardens in Europe with giant Chinese pandas. A visit to the zoo can easily be combined with a stroll through the romantic parklands of Frederiksberg Garden.
+
+Copenhagen’s old city centre offers almost a square mile of pedestrian-friendly shopping as well as heritage attractions such as palaces, castles and major museums. But don’t forget to do as the Danes and hop on a bicycle and discover some of the city’s leafy and liveable neighbourhoods. You can also explore the city’s harbourfront along a 13km cycling route, bringing you through new dockland developments and crossing six designer bicycle bridges. Get active and explore Copenhagen"
+      android:layout_marginLeft="20dp"  />
+</RelativeLayout>
