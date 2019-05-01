@@ -7,12 +7,70 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:scrollbars="vertical"
-        android:text="Copenhagen welcomes the spring with open-air food markets and parkland fun. In April this year, Copenhagen Zoo also becomes one of only five zoos in Europe with giant Chinese pandas. And don’t forget to explore the city’s many green and leafy neighbourhoods the Danish way – on a bike!
+        android:text="Best Things to Do in Copenhagen
 
-Copenhageners love sun-kissed days. With fair weather, parks and open-air food markets spring to life. Tivoli Gardens open on 4 April 2019 for the summer season with rides, restaurants and family entertainment. And on 12 April, the world’s oldest pleasure park, Bakken, opens for the season – a great chance to go for a ride in a horse-drawn carriage in the UNESCO heritage oak woods and spend the day with family fun. The Japanese Sakura Festival is also celebrated under the blossoming cherry trees by the city’s harbourfront (27-28 April). And Copenhagen’s street food markets (Reffen and the Bridge Street Kitchen) get sizzling in late March.
 
-April also marks the opening of Copenhagen Zoo’s new panda habitat, designed by star architect Bjarke Ingels (BIG). Multiple walkways around the yin-yang inspired enclosure and new creative restaurants will bring a whole new level of experience to the zoo, which becomes one of only five zoological gardens in Europe with giant Chinese pandas. A visit to the zoo can easily be combined with a stroll through the romantic parklands of Frederiksberg Garden.
+1. Tivoli Gardens
 
-Copenhagen’s old city centre offers almost a square mile of pedestrian-friendly shopping as well as heritage attractions such as palaces, castles and major museums. But don’t forget to do as the Danes and hop on a bicycle and discover some of the city’s leafy and liveable neighbourhoods. You can also explore the city’s harbourfront along a 13km cycling route, bringing you through new dockland developments and crossing six designer bicycle bridges. Get active and explore Copenhagen"
+Such is this theme park’s fame that some people come to Copenhagen just t visit Tivoli Gardens.
+
+And even if you’re not in the mood to get on a rollercoaster or carousel it’s an unforgettable place for an amble thanks to its romantic 19th-century representations of the Orient.
+
+After Bakken, also in Copenhagen, Tivoli Gardens is the world’s oldest theme park, and if you do have kids with you they will have the time of their lives on some of these rides.
+
+Worth special mention is the Star Flyer, a carousel that hikes riders up 80 metres above the ground.
+
+
+
+2.  Little mermaid statue
+
+This instantly recognisable statue sitting on a rock next to the Langelinie promenade is surely the most famous landmark in the city.
+
+The sculptor Edvard Eriksen created the mermaid in 1913 as a tribute to the author Hans Christian Andersen, and it’s inspired by Andersen’s eponymous fairytale.
+
+When you get up close to the statue what will surprise you is how small it actually is, but you’ll have to take a photo because it’s simply one of those international identifiers.
+
+
+3. Strøget
+
+This pedestrian street runs on and on, and whether you’re up for high-street or high-end shopping the chances are you’ll find what you’re looking for here.
+
+It’s among the largest pedestrian malls in the world and even if the prices aren’t for the faint-hearted.
+
+If you want to find some independent shops then follow Strøget into the Old City and then try one of the narrow side streets.
+
+There’s a wonderful mix of old specialty businesses that go back generations and hip boutiques for young fashionistas.
+
+
+4. Christiansborg Palace
+
+
+Set on the Islet of Slotsholmen, Christiansborg contains Denmark’s Supreme Court, the Prime Minister’s office and the Danish Parliament.
+
+The Danish royal family and prime minster also make use of the palace’s ornate reception rooms for formal events and to receive other heads of state.
+
+The highlight of these reception rooms is the Great Hall, 40 metres long and able to seat 400 guests.
+
+On a tour you’ll also get to see the Riding School, which is overlooked by a gallery, and the little court theatre which was built in 1767 and updated in 1842.
+
+
+5. Botanical Garden
+
+Occupying 10 hectares right in the middle of Copenhagen, these gardens are valued as much for their botanical wealth as the majestic iron and glass structures that house them.
+
+The glasshouses date from the 1870s, and the most impressive of these is the conservatory complex built in 1874.
+
+Some of the species in here are 200 years-old.
+
+In all there are more than 13,000 plant species on display at the gardens.
+
+See if you can find the Arctic house, in which hi-tech air-conditioning recreates a polar environment for the gardens’ Arctic species.
+
+
+
+
+
+
+"
       android:layout_marginLeft="20dp"  />
 </RelativeLayout>

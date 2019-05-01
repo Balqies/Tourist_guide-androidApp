@@ -6,28 +6,19 @@
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:text="If you need help before, during or after your visit to Horsens, you always have the option of receiving tourist information. Throughout the year, our skilled staff are ready to help, and you are invited to pick up brochures on a wide range of exciting places when you arrive in Horsens.
+        android:text="Horsens Tourist Information Centre
+At VisitHorsens, you can get tourist information, guidance and inspiration for the many exciting experiences, events and entertainment, which take place in Horsens every year.
 
-Call us on telephone number 0045 7560 2120 in our opening hours or send us an email at info@visithorsens.dk – and we will respond as soon as possible.
+At FÆNGSLET in Horsens, you can get personal service, as well as find brochures and information from Horsens and the surrounding area.
+You can also find brochures with current events and information, at central locations, such as hotels, attractions and major supermarkets, throughout the municipality.
 
-You can also search for information on more than 170 digital info screens in Eastern Jutland, on our VisitHorsens app or by visiting the Tourist Information at FÆNGSLET, Fussingsvej 8, 8700 Horsens.
+Free app
+Put the tourist information in your pocket. VisitHorsens' app gives you information about activities, accommodation, dining, shopping, nature experiences, museums, galleries and events.
+Download it for free on iPhone and Android.
 
-Welcome to Horsens!
 
-Contact information
-Opening hours
-Meet us on Facebook and Instagram
-Get the VisitHorsens app
-Tourist information Offices
-Practical information
-Tourist ambassadors
-Contact information
-VisitHorsens
-C/O FÆNGSLET
-Fussingsvej 8
-8700 Horsens
-
-Tel: 0045 75 60 21 20
-info@visithorsens.dk"
+VISITHORSENS is open 10-17, tuesday to sunday, during the summer months, and 9-16 during the winter.
+In addition, VISITHORSENS is open on mondays during school holidays, as well as during the whole summer holiday.
+"
         android:scrollbars="vertical"/>
 </RelativeLayout>

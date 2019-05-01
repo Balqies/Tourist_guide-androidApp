@@ -6,27 +6,32 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:text="Esbjerg Visitor Information Centre
-A modern self service visitors centre has replaced the traditional tourist bureau. Here you yourself can search for information about Esbjerg, Ribe and Southwest Jutland, including the Wadden Sea National Park.
+        android:text="Museums in Esbjerg
 
-The centre features state-of-the-art information technology, brochures and maps of the area. There is an invalid access ramp and a guest toilet.
+Fisheries and Maritime Museum - Esbjerg
+Spend a day at the Fisheries and Maritime Museum in Esbjerg. There is lots to experience
+and even more to look at An ocean of stories The Fisheries and Maritime Museum, Esbjerg
 
 
+Esbjerg Museum
 
-The visitor information centre is open:
-
-Sunday - Wednesday 10.00 - 20.00
-
-Thursday - Saturday  10.00 - 18.00
-
-The centre is closed on the 24, 25 and 31 December and on the 1 January.
+See Esbjerg in the 1930's and come close to the local history from the years of German
+occupation during WW2 The new exhibition  Esbjerg 1943 shows the daily life in
+    Esbjerg.
 
 
 
-Info phone: +45 75 12 55 99 Monday - Friday 10.00 - 16.00
+    Esbjerg Art Museum
 
-Info mail:  visitesbjer...
+    Esbjerg Art Museum is a museum of modern and contemporary art that is known for also
+    functioning as an experimentarium where both children and adults can have surprising
+    experiences.
 
-Address:  VisitEsbjerg | Skolegade 33 | DK-6700 Esbjerg"
+
+
+    Esbjerg Water Tower
+
+    The Esbjerg Water Tower - the landmark of Esbjerg -  from 1896-97 was designed by C.H.
+    Clausen, who has    virtually copied the medieval residence Haus Nassau in Nuremberg."
         android:scrollbars="vertical"/>
 </RelativeLayout>
